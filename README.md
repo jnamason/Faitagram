@@ -1,5 +1,5 @@
 # Faitagram 2023 Re-config'd for Kali Purple.   YES IT WORKS FOR UPDATED KALI PURPLE
-* Faitagram (FIX) Brute Force for Facebook, Twitter, and Instagram. Programmed in Python.
+* Faitagram Brute Force for Facebook, Twitter, and Instagram. Programmed in Python.
 
 # Requirements
 * python3   pip
